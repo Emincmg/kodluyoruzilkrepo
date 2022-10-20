@@ -26,3 +26,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 # License
 
 [MIT](https://opensource.org/licenses/MIT)
+
+# Project Screenshot
+
+![](https://prnt.sc/ipIky1AA7yx6)
