@@ -29,4 +29,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # Project Screenshot
 
-![](https://www.hizliresim.com/fhxsbk9][img]https://i.hizliresim.com/fhxsbk9.png)
+![](https://i.hizliresim.com/fhxsbk9.png)
